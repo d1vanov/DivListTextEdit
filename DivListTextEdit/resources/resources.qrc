@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/format-list-ordered.ico</file>
+        <file>icons/format-indent-more-5.png</file>
+    </qresource>
+</RCC>
