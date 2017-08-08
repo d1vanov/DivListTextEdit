@@ -14,8 +14,8 @@ consider the following list:
 2. item 2
 3. item 3
 4. item 4
-  1. subitem 1
-  2. subitem 2
+    1. subitem 1
+    2. subitem 2
 5. item 5
 6. item 6
 
@@ -25,8 +25,8 @@ Let’s say you want to delete the item 3. So you move the cursor there, press b
 2. item 2
 
 3. item 4
-  1. subitem 1
-  2. subitem 2
+    1. subitem 1
+    2. subitem 2
 4. item 5
 5. item 6
 
@@ -38,8 +38,8 @@ I’d like to get another result, in particular I’d like to get two lists divi
 (empty line)
 
 1. item 4
-  1. subitem 1
-  2. subitem 2
+    1. subitem 1
+    2. subitem 2
 2. item 5
 3. item 6
 
